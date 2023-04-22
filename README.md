@@ -2,7 +2,7 @@
 # python-for-devops-april-2023
 From Zero Repository for doing Python DevOps work
 
-![Drawing sketchpad](https://user-images.githubusercontent.com/18522690/233810291-b9fa4b14-dec0-45c0-badc-d6c98da1c702.png)
+![Drawing sketchpad (1)](https://user-images.githubusercontent.com/18522690/233810313-722afb31-8296-4f2b-8cc7-7faf26b9663a.png)
 
 ## Create project scaffold
 
