@@ -12,6 +12,6 @@ format:
 	black *.py devopslib/*.py
 
 deploy:
-	echo "deploy goes here"
+	echo "when ready to use AWS.. https://www.youtube.com/watch?v=kwZNpieUreA&ab_channel=PragmaticAILabs"
 
 all: install lint test format deploy
