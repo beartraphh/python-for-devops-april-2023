@@ -2,7 +2,7 @@
 # python-for-devops-april-2023
 From Zero Repository for doing Python DevOps work
 
-![put gif](https://)
+![Drawing sketchpad](https://user-images.githubusercontent.com/18522690/233810291-b9fa4b14-dec0-45c0-badc-d6c98da1c702.png)
 
 ## Create project scaffold
 
@@ -18,12 +18,12 @@ Create development enviornment that is cloud-based
 Build out scaffold:
 
 * [Makefile](https://github.com/beartraphh/python-for-devops-april-2023/blob/main/Makefile)
-* [requirements.txt](https://github.com/beartraphh/python-for-devops-april-2023/blob/main/requirements.txt)
-* [test_library.py](https://github.com/beartraphh/python-for-devops-april-2023/blob/main/test_devopslib.py)
-* [python_library](https://github.com/beartraphh/python-for-devops-april-2023/tree/main/devopslib)
-* Dockerfile
-* command-line-tool
-* Microservice
+* [Requirements.txt](https://github.com/beartraphh/python-for-devops-april-2023/blob/main/requirements.txt)
+* [Test_library.py](https://github.com/beartraphh/python-for-devops-april-2023/blob/main/test_devopslib.py)
+* [Python_library](https://github.com/beartraphh/python-for-devops-april-2023/tree/main/devopslib)
+* [Dockerfile]
+* [Command-line-tool]
+* [Microservice]
 
 1. Create a virtualenv: `virtualenv ~/.venv`
 2. Edit my `~/.bashrc` `source ~/.venv/bin/activate`
