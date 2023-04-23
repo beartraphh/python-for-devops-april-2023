@@ -1,6 +1,6 @@
 [![Test Multiple Python Versions](https://github.com/beartraphh/python-for-devops-april-2023/actions/workflows/main.yml/badge.svg)](https://github.com/beartraphh/python-for-devops-april-2023/actions/workflows/main.yml)
 # python-for-devops-april-2023
-From Zero Repository for doing Python DevOps work
+Repository for doing Python DevOps work - followed from youtube video
 
 ![Drawing sketchpad (1)](https://user-images.githubusercontent.com/18522690/233810313-722afb31-8296-4f2b-8cc7-7faf26b9663a.png)
 
